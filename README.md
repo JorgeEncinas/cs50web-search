@@ -11,3 +11,12 @@ As the size of it changes slightly without the borders, it moves a bit. I have t
 </p>
 
 [Project Requirements are specified here](https://cs50.harvard.edu/web/2020/projects/0/search/)
+
+### Images
+
+[Screen 1](screenshots/screen1.png)
+
+[Screen 2](screenshots/screen2.png)
+
+[Screen 3](screenshots/screen3.png)
+
