@@ -14,9 +14,9 @@ As the size of it changes slightly without the borders, it moves a bit. I have t
 
 ### Images
 
-[Screen 1](screenshots/screen1.png)
+![Screen 1](screenshots/screen1.png)
 
-[Screen 2](screenshots/screen2.png)
+![Screen 2](screenshots/screen2.png)
 
-[Screen 3](screenshots/screen3.png)
+![Screen 3](screenshots/screen3.png)
 
